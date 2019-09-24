@@ -1,0 +1,26 @@
+BillSplitter
+
+An app based on a react framework that is able to take an image of a reciept 
+and break the cost of the total bill into its respective users. It will 
+allocate menu items that were ordered by specific people to those people 
+and divde the tax and tip into their individual final bill. Hence, 
+the final bill will be appropriately divided into the individuals and 
+account for tax and tip. It can be used by the restaurant as well in order 
+to split a bill before it is sent to the table or by diners as many 
+eating establishments in USA do not have such services.
+
+Key components:
+-React app for android and apple  
+-User Testing
+-Image recognition
+-User enters names of diners or chooses colors for them
+-User selects how much percent tip they want to give
+-User assigns certains color dots to menu items
+-Can put multiple dots next to one menu item in case sharing occurs
+-App generates final bill for each color dot that includes tip and tax
+-User can click smile face or thumbs down in the end
+
+-No registration
+-Quick photo
+-Simple GUI
+-Easy, colorful buttons to make it visually appealing
